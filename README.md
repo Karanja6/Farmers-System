@@ -5,19 +5,18 @@
 * [Setup](#setup)
 
 ## General info
-This project is simple Lorem ipsum dolor generator.
+This project is simple farmers weather check app.
 	
 ## Technologies
 Project is created with:
-* Lorem version: 12.3
-* Ipsum version: 2.33
-* Ament library version: 999
+* Python
+* Html
+* css
 	
 ## Setup
-To run this project, install it locally using npm:
+To run this project, install it locally using vsc:
 
 ```
-$ cd ../lorem
-$ npm install
-$ npm start
+$ vsc install
+$ vsc start
 ```
